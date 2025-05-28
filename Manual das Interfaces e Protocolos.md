@@ -1,4 +1,4 @@
-# Documentação das Interfaces e Protocolos
+# Manual das Interfaces e Protocolos
 
 ## Comunicação MQTT
 
